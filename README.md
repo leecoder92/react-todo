@@ -9,5 +9,5 @@
 
 ### 앱 사진
 
-![앱 사진](README.assets/앱 사진.png)
+![앱 사진](./README.assets/앱 사진.png)
 
